@@ -26,6 +26,7 @@ To clone and set up the project:
 1. **Clone the repository**:
   
    git clone https://github.com/majidhanif230/Speech_Diarization_using_WhisperX
+
    cd Speech_Diarization_using_WhisperX
  
 2. **Run the Jupyter Notebook**:
