@@ -24,16 +24,13 @@ The goal of this project is to create a tool that can automatically identify and
 To clone and set up the project:
 
 1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
-
-
+  
+   git clone https://github.com/majidhanif230/Speech_Diarization_using_WhisperX
+   cd Speech_Diarization_using_WhisperX
+ 
 2. **Run the Jupyter Notebook**:
-   ```bash
-   jupyter notebook
-   ```
+
+   type jupyter notebook in cmd
 
 3. **Open and execute** the `WhisperX_Speaker_Diarization.ipynb` file to start processing your audio files.
 
